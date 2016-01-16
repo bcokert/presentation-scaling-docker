@@ -1,0 +1,15 @@
+section {
+  height: 100%;
+}
+
+img.-overlay {
+  position: fixed;
+  top: 75px;
+  left: 0;
+  width: 1200px;
+  height: 600px;
+}
+
+.c-twitter {
+  color: #33ccff;
+}
