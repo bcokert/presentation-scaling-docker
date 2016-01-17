@@ -2,6 +2,11 @@ section {
   height: 100%;
 }
 
+img {
+  border: none !important;
+  box-shadow: none !important;
+}
+
 img.-overlay {
   position: fixed;
   top: 75px;
